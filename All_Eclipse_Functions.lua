@@ -49,6 +49,8 @@ RunScript
 SetConstant
 SetStack
 SetUpvalue
+WebSocket.Connect
+WebSocket.connect
 WriteEclipseKey
 WriteFile
 appendfile
@@ -142,15 +144,19 @@ dump_string
 dumpstring
 filter_gc
 filtergc
+fire_click_detector
 fire_proximity_prompt
 fire_signal
 fire_touch_interest
+fireclickdetector
 fireproximityprompt
 firesignal
 firetouchinterest
 getObjects
 getSavedKey
 getTabs
+get_callback_member
+get_callback_value
 get_calling_script
 get_clip_board
 get_connections
@@ -169,6 +175,8 @@ get_script_function
 get_script_hash
 get_thread_identity
 get_user_data_tag
+getcallbackmember
+getcallbackvalue
 getcallingscript
 getclipboard
 getconnections
